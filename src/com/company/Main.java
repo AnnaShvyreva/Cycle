@@ -150,6 +150,6 @@ public class Main {
                 i++;
             }while ((i<10) && (tmp.equals("N") | tmp.equals("n")));
             System.out.println("Просыпайся!!!!!! Утро!");
-        }while (1==1);
+        }while (true);
     }
 }
