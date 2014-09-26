@@ -149,7 +149,7 @@ public class Main {
                 tmp = sr.next();
                 i++;
             }while ((i<10) && (tmp.equals("N") | tmp.equals("n")));
-            System.out.println("Просыпайся!!!!!! Утро!");
+            System.out.println("Просыпайся!!! Утро!");
         }while (true);
     }
 }
